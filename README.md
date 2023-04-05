@@ -5,5 +5,5 @@ The chosen technique is classification and Random Forest Classifier is implement
 
 Dataset Link: https://www.kaggle.com/datasets/usdot/flight-delays
 
-Software Tools used: Python programming language, Tableau
-Python Packages used: Pandas, Scikit-Learn, Time, JobLib
+Software Tools used: Python programming language, Tableau.
+Python Packages used: Pandas, Scikit-Learn, Time, JobLib.
