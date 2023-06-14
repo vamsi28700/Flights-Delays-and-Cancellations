@@ -1,0 +1,126 @@
+													Travelers Board User Manual
+
+							Authors: Krishna Vamsi Kurumaddali, Andrew Chan, Patrick Nguyen, Van-Phi Quy, Manjunath Gujjar
+
+												Project Guide: Dr. Rebecca Williams
+
+												Date of the Final Release: 05-15-2023
+
+			Final Release Link: https://public.tableau.com/app/profile/krishna.vamsi.k/viz/TravelersBoardProjectFinalRelease/AveragesDelaysbyState?publish=yes
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Table of Contents
+
+- Introduction
+	- Purpose of the Manual
+	- Target Users
+- Getting Started
+	- System Requirements
+	- Installation Instructions
+- Using Travelers Board
+	- Overview
+	- Functionality and Features
+	- Dashboards
+- Software Support and Maintainance
+	- Software Updates
+	- Community Resources
+- Appendix
+	- Glossary of terms
+	- References
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Introduction
+
+	Purpose of the project
+	This is the user manual for Travelers Board Project which is a data visualization based interactive and informative project. It is primarily done in Tableau and the end project consists of visualizations in a dashboard and is publicly hosted via Tableau Public. The dataset used is from United States Department of Transportation's Statistics on Flights Delay and Cancellations for the year 2015. The dataset package consist of three datasets namely Flights.csv, Airlines.csv, and Airports.csv. This user manual helps in getting the whole project up and running through various steps.
+
+	Target Users
+		Airline companies, passengers and avid travellers, online travel booking companies, researchers in avaition industry and transporation agencies.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Getting Started
+
+	System Requirements
+
+		- Minimum Requirements for Installing and running Tableau Public Software
+
+		Operating Systems and Minimum System Requirements presribed for Tableau Public Software
+
+			Windows OS
+
+			Microsoft Windows 8/8.1, Windows 10 (x64)
+			2 GB memory
+			1.5 GB minimum free disk space
+			CPUs must support SSE4.2 and POPCNT instruction sets
+
+			Macintosh OS
+
+			macOS Catalina 10.15, macOS Big Sur 11.4+, and macOS Monterey 12.6+ (for Tableau 2022.3+)
+			Intel processors
+			Apple Silicon processors (using Rosetta)
+			1.5 GB minimum free disk space
+
+	Installation Instructions
+
+		- Tableau public software is freely available to download on your local machine.
+		- After visiting the link above, press on the "Download Tableau Public" button and agree to the terms and conditions. 
+		- Choose the version of Tableau public that you prefer and press on the download button and save the file in the appropriate directory in your local machine. The download will start after checking with the agreement.
+		- After downloading the installation file, loacte the file in your directory where you have downloaded the file and double click it the installation file to start the installations.
+		- Follow the on-screen instructions to install Tableau public correctly without any error.
+		- Pro-tip: Before installing the software, make sure that your local or virtual machine is compatible and supports Tableau public software.
+		- After installing the software, open the Tableau Public software and create an account so that it can be saved in Tableau cloud for better compatibility.
+		- Finally, you will be greeted with home screen of Tableau Public software.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Using Travelers Board
+
+	Overview
+		- Download the travelers board final release from the link specified above the manual or from the references.
+		- Open the travelers board workbook using Tableau Public installed on your local machine.
+		- Download the dataset from the references link to connect the data source with the workbook.
+
+	Functionality and Features
+		- Use the presentation mode listed in the top ribbon of the Tableau public interface for better viewing and interactivity.
+		- Interaction is based on hover, select either on the visualization or through filters provided in the right hand side ribbon.
+		- Color range is given for better distinguishing the different aspects of the visualization in terms of color.
+		- Zoom capability is provided for better viewing of map based visualization.
+		- For navigating the project, bottom ribbon contains each visualization in a tab and in the bottom right hand corner, arrows are given for precise movement of tabs.
+
+	Dashboards
+		- The last two tabs are dashboards which are having visualizations interconnected with each other and present the data with more information and interactivity.
+		- For fully utilizing the dashboards, it is recommended to view them in presentation or full screen mode.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Software Support and Maintainance
+
+	Software Updates
+		- The software is mainly managed through Tableau public and the workbook is also updated as the newer versions of Tableau public are released.
+
+	Community Resources
+		- The Tableau community is actively present through forums and discussions for clarifying doubts and errors which can occur when using Tableau Public software.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Appendix
+
+Glossary of Terms
+	
+	- Visualization
+	- Tableau Public
+	- Dashboards
+	- Filters
+	- Interactions
+	- Workbooks
+	- Data Source
+
+References
+
+[1] Tableau Public Tech Specs: https://www.tableau.com/products/techspecs#public
+[2] Tableau Public Software Download: https://www.tableau.com/products/public/download
+[3] Travelers board final Release Link: https://public.tableau.com/app/profile/krishna.vamsi.k/viz/TravelersBoardProjectFinalRelease/AveragesDelaysbyState?publish=yes
+[4] Flights Delay and Cancellations dataset from kaggle: https://www.kaggle.com/datasets/usdot/flight-delays
