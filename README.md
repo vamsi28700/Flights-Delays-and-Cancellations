@@ -1,5 +1,4 @@
 # Flights-Delays-and-Cancellations
-Authors: Krishna Vamsi Kurumaddali, Andrew Chan, Patrick Nguyen, Van-Phi Quy, Manjunath Gujjar <br>
 
 Description:
 This repository contains analysis done on US Flights delay and cancellations in the year 2015.<br>
